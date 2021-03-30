@@ -8,7 +8,7 @@ Class {
 HelloWorld >> buenas [
 	"Buenas estoy escribiendo en Pharo, soy Tomi"
 	"Hola Tomi!"	
-	
+	"Holu Frgest! :D"
 ]
 
 { #category : #tests }
