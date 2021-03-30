@@ -6,7 +6,8 @@ Class {
 
 { #category : #nuevoTest }
 HelloWorld >> buenas [
-	"Buenas estoy escribiendo en Pharo, soy Tomi"	
+	"Buenas estoy escribiendo en Pharo, soy Tomi"
+	"Hola Tomi!"	
 	
 ]
 
