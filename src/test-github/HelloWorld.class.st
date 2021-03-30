@@ -1,3 +1,6 @@
+"
+Comento esta cosa para que deje de quejarse, solo es cosas que cambiamos.
+"
 Class {
 	#name : #HelloWorld,
 	#superclass : #Object,
